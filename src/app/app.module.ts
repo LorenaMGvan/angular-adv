@@ -12,7 +12,7 @@ import { AuthRoutingModule } from './auth/auth.routing.module';
 @NgModule({
   declarations: [
     AppComponent,
-    NopagefoundComponent
+    NopagefoundComponent,
   ],
   imports: [
     BrowserModule,
